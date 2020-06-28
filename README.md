@@ -1,7 +1,7 @@
 # learn-to-learn
 Первый учебный проект Яндекс.Практикума
 
-[Ссылка на проект](https://vercel.com/artvezhl/learn-to-learn/zhfe6y79r)
+[Ссылка на проект](https://learn-to-learn-zhfe6y79r.vercel.app/)
 
 ## В рамках проекта реализованы:
 - Flexbox верстка
